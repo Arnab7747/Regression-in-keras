@@ -1,4 +1,4 @@
-# Regression-in-kreas
+# Regression-in-keras
 # Build a baseline model 
 
 # Use the Keras library to build a neural network with the following:
